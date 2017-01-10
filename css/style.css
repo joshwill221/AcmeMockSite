@@ -39,7 +39,6 @@ ul {
 }
 
 /* Header */
-
 header {
   background: #35424a;
   color: #ffffff;
@@ -86,7 +85,6 @@ header a:hover {
 }
 
 /* Showcase */
-
 #showcase {
   min-height: 400px;
   /* x, y */
@@ -106,7 +104,6 @@ header a:hover {
 }
 
 /* Newsletter */
-
 #newsletter {
   padding: 15px;
   color: #ffffff;
@@ -151,10 +148,24 @@ aside#sidebar {
   margin-top: 10px;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+  width: 90%;
+  padding: 5px;
+}
+
 /* Main-col */
 article#main-col {
   float: left;
   width: 65%;
+}
+
+/* Services */
+ul#services li{
+  list-style: none;
+  padding: 20px;
+  border: #cccccc solid 1px;;
+  margin-bottom: 5px;
+  background: #e6e6e6;
 }
 
 footer {
