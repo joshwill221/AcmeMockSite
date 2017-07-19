@@ -1,3 +1,3 @@
-A sample responsive website for a mock company.
-hosted at https://joshwill221.github.io/AcmeMockSite/index.html
-[tutorial https://www.youtube.com/watch?v=Wm6CUkswsNw]
+A Sample Responsive Website for a Mock Company.
+[Visit It Here](https://joshwill221.github.io/AcmeMockSite/index.html)
+[Tutorial](https://www.youtube.com/watch?v=Wm6CUkswsNw)
